@@ -1,0 +1,3 @@
+/mnt/window_scatac/bam/mSp_rep9_177_f2q30.bam
+/mnt/window_scatac/bam/mSp_rep9_304_f2q30.bam
+/mnt/window_scatac/bam/mSp_rep9_373_f2q30.bam
